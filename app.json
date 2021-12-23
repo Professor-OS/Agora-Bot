@@ -1,7 +1,7 @@
 {
     "name": "AGORA BOT",
     "description": "Pluggable telegram userbot, made in python using Telethon.",
-    "logo": "https://te.legra.ph/file/91f5efef134e5885dbd71.jpg",
+    "logo": "https://te.legra.ph/file/1abe878dd3dc79d013d94.jpg",
     "keywords": [
         "Telethon",
         "telegram",
@@ -10,7 +10,7 @@
         "ultroid"
     ],
     "repository": "https://github.com/Professor-OS/Agora-Bot",
-    "website": "https://ultroid.tech",
+    "website": "https://Agora.tech",
     "success_url": "https://t.me/Prof_Agora",
     "stack": "container",
     "env": {
