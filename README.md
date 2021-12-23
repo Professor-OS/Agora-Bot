@@ -1,5 +1,5 @@
 <h1 align="center">
-<b> ☘️『★彡[ 𝗔𝗚𝗥☯︎𝗔 𝗕☯︎𝗧 ]彡★』☘️ </b>
+<b> ☘️『★彡[ 𝗔𝗚☯︎𝗥𝗔 𝗕☯︎𝗧 ]彡★』☘️ </b>
 </h1>
 
 [![★彡[AGORA-BOT]彡★](https://telegra.ph/file/1abe878dd3dc79d013d94.jpg)](https://github.com/Professor-OS/Agora-Bot)
