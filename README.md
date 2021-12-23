@@ -5,7 +5,7 @@
 [![★彡[AGORA-BOT]彡★](https://telegra.ph/file/1abe878dd3dc79d013d94.jpg)](https://github.com/Professor-OS/Agora-Bot)
 
 <h6 align="center">
-  <b>☘️ ᗷHᎯᗰ ᗷHᎯᗰ ᗷH✺ᒪ☰ᑎᗩƬH ☘️</b>
+  <b>☘️ ＢＨＡＭ  ＢＨＡＭ ＢＨＯＬＥＮＡＴＨ ☘️</b>
 </h6>
 
 <p align="center">
