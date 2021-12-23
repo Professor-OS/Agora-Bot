@@ -1,11 +1,11 @@
 <h1 align="center">
-<b> 💰『★彡[𝗔𝗚𝗢𝗥𝗔 𝗕𝗢𝗧]彡★』💰 </b>
+<b> ☘️『★彡[𝗔𝗚𝗢𝗥𝗔 𝗕𝗢𝗧]彡★』☘️ </b>
 </h1>
 
 [![★彡[AGORA-BOT]彡★](https://telegra.ph/file/1abe878dd3dc79d013d94.jpg)](https://github.com/Professor-OS/Agora-Bot)
 
 <h6 align="center">
-  <b>☘️𝙰𝙶𝙾𝚁𝙰 𝙱𝙾𝚃☘️</b>
+  <b>☘️ ᗷHᎯᗰ ᗷHᎯᗰ ᗷH✺ᒪ☰ᑎᗩƬH ☘️</b>
 </h6>
 
 <p align="center">
