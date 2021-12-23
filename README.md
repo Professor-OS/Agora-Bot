@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="Agora-Bot Logo">
+  <img src=./https://te.legra.ph/file/a4c1a7fb443d9bf8eb4b7.jpg" alt="Agora-Bot Logo">
 </p>
 <h1 align="center">
   <b>Ultroid - UserBot</b>
