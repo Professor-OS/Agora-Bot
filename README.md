@@ -1,5 +1,5 @@
 <h1 align="center">
-<b> 💰『★彡[𝗠𝗢𝗡𝗘𝗬 𝗛𝗘𝗜𝗦𝗧 𝗕𝗢𝗧]彡★』💰 </b>
+<b> 💰『★彡[𝗔𝗚𝗢𝗥𝗔 𝗕𝗢𝗧]彡★』💰 </b>
 </h1>
 
 [![★彡[AGORA-BOT]彡★](https://telegra.ph/file/522ed4911518f4b7f51eb.jpg)](https://github.com/Professor-OS/Agora-Bot)
