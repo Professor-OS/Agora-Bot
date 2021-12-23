@@ -2,7 +2,7 @@
 <b> 💰『★彡[𝗔𝗚𝗢𝗥𝗔 𝗕𝗢𝗧]彡★』💰 </b>
 </h1>
 
-[![★彡[AGORA-BOT]彡★](https://telegra.ph/file/522ed4911518f4b7f51eb.jpg)](https://github.com/Professor-OS/Agora-Bot)
+[![★彡[AGORA-BOT]彡★](https://telegra.ph/file/1abe878dd3dc79d013d94.jpg)](https://github.com/Professor-OS/Agora-Bot)
 
 <h6 align="center">
   <b>☘️𝙰𝙶𝙾𝚁𝙰 𝙱𝙾𝚃☘️</b>
