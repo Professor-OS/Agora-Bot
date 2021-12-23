@@ -43,16 +43,16 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Professor-OS/Agora-Bot)
 
-[![Deploy](https://telegra.ph/file/d8b34e339581c5108fdc2.jpg)](https://heroku.com/deploy?template=https://github.com/Professor-OS/Agora-Bot)
+[![Deploy](https://telegra.ph/file/e098be9de8e094ee1e9e4.jpg)](https://heroku.com/deploy?template=https://github.com/Professor-OS/Agora-Bot)
 
 
 ---------
 
-<h3> 𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗣𝗜𝗖 𝗧𝗢 𝗚𝗘𝗧 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗔𝗚𝗢𝗥𝗔 𝗦𝗧𝗥𝗜𝗡𝗚</h3>
+<h3> 𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗣𝗜𝗖 𝗧𝗢 𝗚𝗘𝗧 𝗔𝗚𝗢𝗥𝗔 𝗦𝗧𝗥𝗜𝗡𝗚</h3>
 
-- [![PROFESSOR STRING](https://img.shields.io/badge/PROFESSOR-STRING-red)](https://t.me/SESSIONGENERATORBOT)
+- [![AGORA STRING](https://img.shields.io/badge/AGORA-STRING-red)](https://t.me/SESSIONGENERATORBOT)
 
-[![String](https://telegra.ph/file/acb8e76f54ad62d14fcf2.jpg)](https://t.me/SessionGeneratorbot) 
+[![String](https://telegra.ph/file/c053072263d45143c55ad.jpg)](https://t.me/SessionGeneratorbot) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
