@@ -7,7 +7,6 @@
 <h6 align="center">
   <b>☘️ ＢＨＡＭ  ＢＨＡＭ ＢＨＯＬＥＮＡＴＨ ☘️</b>
 </h6>
------------------
       
 <h3> 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨</h3>
 
@@ -15,7 +14,7 @@
 
 [![Deploy](https://telegra.ph/file/e098be9de8e094ee1e9e4.jpg)](https://heroku.com/deploy?template=https://github.com/Professor-OS/Agora-Bot)
 
---------
+----------------------------------
 <p align="center">
 <a href="https://github.com/Professor-OS/Agora-Bot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/Professor-OS/Agora-Bot?style=flat&logo=github&color=success" /> </a>
 <a href="https://github.com/Professor-OS/Agora-Bot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Professor-OS/Agora-Bot?style=flat&logo=github" /> </a>
