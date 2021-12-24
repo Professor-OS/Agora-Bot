@@ -7,7 +7,15 @@
 <h6 align="center">
   <b>☘️ ＢＨＡＭ  ＢＨＡＭ ＢＨＯＬＥＮＡＴＨ ☘️</b>
 </h6>
+-----------------
+      
+<h3> 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨</h3>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Professor-OS/Agora-Bot)
+
+[![Deploy](https://telegra.ph/file/e098be9de8e094ee1e9e4.jpg)](https://heroku.com/deploy?template=https://github.com/Professor-OS/Agora-Bot)
+
+--------
 <p align="center">
 <a href="https://github.com/Professor-OS/Agora-Bot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/Professor-OS/Agora-Bot?style=flat&logo=github&color=success" /> </a>
 <a href="https://github.com/Professor-OS/Agora-Bot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Professor-OS/Agora-Bot?style=flat&logo=github" /> </a>
@@ -26,15 +34,6 @@
 <a href="https://github.com/Professor-OS/Agora-Bot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
-
--------------------
-      
-<h3> 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨</h3>
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Professor-OS/Agora-Bot)
-
-[![Deploy](https://telegra.ph/file/e098be9de8e094ee1e9e4.jpg)](https://heroku.com/deploy?template=https://github.com/Professor-OS/Agora-Bot)
-
 --------
 
 <h3> 𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗣𝗜𝗖 𝗧𝗢 𝗚𝗘𝗧 𝗔𝗚𝗢𝗥𝗔 𝗦𝗧𝗥𝗜𝗡𝗚</h3>
