@@ -27,12 +27,7 @@
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
-----
-## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-red)](https://t.me/MM_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-red)](https://t.me/mm_ub_updates)
-
---------------------
+-------------------
       
 <h3> 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨</h3>
 
@@ -40,8 +35,7 @@
 
 [![Deploy](https://telegra.ph/file/e098be9de8e094ee1e9e4.jpg)](https://heroku.com/deploy?template=https://github.com/Professor-OS/Agora-Bot)
 
-
----------
+--------
 
 <h3> 𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗣𝗜𝗖 𝗧𝗢 𝗚𝗘𝗧 𝗔𝗚𝗢𝗥𝗔 𝗦𝗧𝗥𝗜𝗡𝗚</h3>
 
