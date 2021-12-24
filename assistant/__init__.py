@@ -1,21 +1,21 @@
-# Ultroid - UserBot
-# Copyright (C) 2021 TeamUltroid
+# Agora - UserBot
+# Copyright (C) 2021 Professor-OS
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/Professor-OS/Agora-Bot/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://www.github.com/Professor-OS/Agora-Bot/blob/main/LICENSE/>.
 
-from pyUltroid import *
-from pyUltroid.functions.helper import *
-from pyUltroid.misc import owner_and_sudos
-from pyUltroid.misc._assistant import asst_cmd, callback, in_pattern
+from pyAgora import *
+from pyAgora.functions.helper import *
+from pyAgora.misc import owner_and_sudos
+from pyAgora.misc._assistant import asst_cmd, callback, in_pattern
 from telethon import Button, custom
 
 from plugins import ATRA_COL
 from strings import get_languages, get_string, language
 
-OWNER_NAME = ultroid_bot.me.first_name
-OWNER_ID = ultroid_bot.me.id
+OWNER_NAME = agora_bot.me.first_name
+OWNER_ID = agora_bot.me.id
 
 AST_PLUGINS = {}
 
