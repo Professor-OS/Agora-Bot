@@ -27,12 +27,7 @@
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
-------
-## Status Of Bot 
-<p align="left">
-    <a href="https://github.com/Professor-OS/Agora-Bot/network/members"><img src="https://img.shields.io/github/forks/Professor-OS/Agora-Bot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Professor-OS/Agora-Bot/stargazers"><img src="https://img.shields.io/github/stars/Professor-OS/Agora-Bot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Professor-OS/Agora-Bot"></a><p align="left"><a href="https://github.com/Professor-OS/Agora-Bot?"></a>
-
-------
+----
 ## Telegram 🏪
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-red)](https://t.me/MM_Userbot)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-red)](https://t.me/mm_ub_updates)
