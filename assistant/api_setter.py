@@ -1,9 +1,9 @@
-# Ultroid - UserBot
-# Copyright (C) 2021 TeamUltroid
+# Agora - UserBot
+# Copyright (C) 2021 Professor-OS
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/Professor-OS/Agora-Bot/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://www.github.com/Professor-OS/Agora-Bot/blob/main/LICENSE/>.
 
 from telethon import events
 
